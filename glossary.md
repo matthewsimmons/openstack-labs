@@ -45,6 +45,7 @@ Atest [5] This is a test.
 - **CirrOS** [6] Packaged with Openstack, and designed to open test images.
 - **Clone** [17] Developers will typically clone a central repository so that they can develop in parallel. 
 - **Commit** [17] Takes all of the files in the staging area, and stores that snapshot permanently to your Git directory. All commits can be referenced by a UUID, and include metadata such as the author, date, contact info, notes, etc. A commit is synonymous with version.
+- **Commited** [17] feeling dedication and loyalty to a cause, activity, or job; wholeheartedly dedicated to the OpenSource Project.
 - **Community Project** [17] Projects not officially endorsed by the OpenStack Foundation. If successful, it may become an incubated project and then to a core project, or may be merged with the main code trunk.
 - **Compute** [6] The term compute is synonymous with Nova. An OpenStack core project that provides compute services (manages VM instances).
 - **Compute Controller** [6] Chooses which hosts to start a VM instance.
